@@ -1,6 +1,6 @@
 name: rest_api
 description: "A Dart package providing a robust REST API service implementation with HTTP request handling, CRUD operations, and file management."
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/GenieCoderSrc/rest_api
 repository: https://github.com/GenieCoderSrc/rest_api
 issue_tracker: https://github.com/GenieCoderSrc/rest_api/issues
