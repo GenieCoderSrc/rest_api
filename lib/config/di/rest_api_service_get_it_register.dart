@@ -1,4 +1,4 @@
-import 'package:global/get_it_di.dart';
+import 'package:get_it_di_global_variable/get_it_di.dart';
 import 'package:http/http.dart' as http;
 import 'package:rest_api/rest_api.dart';
 

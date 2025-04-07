@@ -1,6 +1,6 @@
 name: rest_api
 description: "A Dart package providing a robust REST API service implementation with HTTP request handling, CRUD operations, and file management."
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/GenieCoderSrc/rest_api
 repository: https://github.com/GenieCoderSrc/rest_api
 issue_tracker: https://github.com/GenieCoderSrc/rest_api/issues
@@ -13,7 +13,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  get_it_di_global_variable: ^1.0.0
+  get_it_di_global_variable: ^0.0.4
   dio: ^5.7.0
   http: ^1.3.0
   json_annotation: ^4.9.0
